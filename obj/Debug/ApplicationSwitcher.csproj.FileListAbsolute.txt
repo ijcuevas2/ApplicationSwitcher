@@ -1,0 +1,17 @@
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.csprojAssemblyReference.cache
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\App.g.cs
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher_MarkupCompile.cache
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher_MarkupCompile.lref
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\bin\Debug\ApplicationSwitcher.exe.config
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\bin\Debug\ApplicationSwitcher.exe
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\bin\Debug\ApplicationSwitcher.pdb
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\Views\MainWindow.baml
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.g.resources
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.Properties.Resources.resources
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.csproj.GenerateResource.cache
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.exe
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ApplicationSwitcher.pdb
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ViewModel\TextBoxViewModel.g.cs
+C:\Users\Ismael Cuevas\source\repos\ApplicationSwitcher\obj\Debug\ViewModel\TextBoxViewModel.baml
