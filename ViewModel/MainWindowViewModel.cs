@@ -9,7 +9,7 @@ using System.Windows.Media;
 
 namespace ApplicationSwitcher.ViewModel
 {
-    class MainWindowViewModel : INotifyPropertyChanged
+    public class MainWindowViewModel : INotifyPropertyChanged
     {
         [StructLayout(LayoutKind.Sequential)]
         public struct WINDOWINFO
